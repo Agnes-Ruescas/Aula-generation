@@ -7,18 +7,18 @@ import java.math.*;
 public class Exercicio4 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
-		int num;
+		double num;
 		
-		System.out.println("Digite o número: ");
-		num = ler.nextInt();
+		System.out.println("Digite o nÃºmero: ");
+		num = ler.nextDouble();
 		
 		if(num%2==0) {
-			num = (int) Math.sqrt(num);
-			System.out.printf("O número é par e ele elevado ao quadrado é %d ", num);
+			num =  Math.sqrt(num);
+			System.out.printf("\nO nÃºmero Ã© par e sua raiz quadrada Ã© %f ", num);
 		}
 		else {
-			num = (int) Math.pow(num, 2);
-			System.out.printf("\nO número é ímpar e sua raiz quadrada é %d ", num);
+			num = Math.pow(num, 2);
+			System.out.printf("O nÃºmero Ã© Ã­mpar e ele elevado ao quadrado Ã© %f  ", num);
 		}
 	}
 }
