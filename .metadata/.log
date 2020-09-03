@@ -1263,6 +1263,7 @@ java.lang.NullPointerException
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+<<<<<<< HEAD
 !SESSION 2020-09-03 10:34:46.897 -----------------------------------------------
 eclipse.buildId=4.16.0.I20200604-0540
 java.version=1.8.0_261
@@ -1368,3 +1369,5 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+=======
+>>>>>>> d7bbebb7c08b0bafb2ed0cd00b53c52e2b44550d

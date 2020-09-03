@@ -50,8 +50,13 @@ INDEX VERSION 1.131+C:\Users\agnes\Desktop\Aula-Generation\.metadata\.plugins\or
 1011459527.index
 3026497401.index
 334630582.index
+<<<<<<< HEAD
 3314026506.index
 2392317381.index
+=======
+2392317381.index
+3314026506.index
+>>>>>>> d7bbebb7c08b0bafb2ed0cd00b53c52e2b44550d
 3016305160.index
 417629141.index
 1509662835.index

@@ -20,6 +20,7 @@
 <fullyQualifiedTypeName name="org.generation.blogPessoal.repository.PostagemRepository"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="org.generation.blogPessoal.model.Postagem"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
@@ -27,4 +28,10 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+=======
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="org.generation.blogPessoal.model.Postagem"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+>>>>>>> d7bbebb7c08b0bafb2ed0cd00b53c52e2b44550d
 </qualifiedTypeNameHistroy>
