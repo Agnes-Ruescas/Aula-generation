@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\agnes\Desktop\Aula-Generation\SpringBoot\redeSocial\redeSocial"/>
+			<item value="C:\Users\agnes\Desktop\Aula-Generation\dez\dez"/>
+			<item value="C:\Users\agnes\Desktop\Aula-Generation\dez"/>
+			<item value="C:\Users\agnes\Desktop\Aula-Generation\turma\turma"/>
 			<item value="C:\Users\agnes\Desktop\Aula-Generation\blogPessoal\blogPessoal"/>
 		</list>
 		<list key="projectNameTemplate">
