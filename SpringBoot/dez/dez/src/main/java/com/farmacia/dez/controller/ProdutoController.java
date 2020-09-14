@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.farmacia.dez.model.Categoria;
 import com.farmacia.dez.model.Produto;
 import com.farmacia.dez.repository.ProdutoRepository;
 
