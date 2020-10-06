@@ -23,7 +23,7 @@ public class Usuario {
 	
 	@NotNull
 	@Size(min = 5, max = 100)
-	private String usuario;
+	private String user;
 	
 	@NotNull
 	@Size(min = 5, max = 100)
@@ -45,12 +45,13 @@ public class Usuario {
 		this.nome = nome;
 	}
 
-	public String getUsuario() {
-		return usuario;
+	
+	public String getUser() {
+		return user;
 	}
 
-	public void setUsuario(String usuario) {
-		this.usuario = usuario;
+	public void setUser(String user) {
+		this.user = user;
 	}
 
 	public String getSenha() {
